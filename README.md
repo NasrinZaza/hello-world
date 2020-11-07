@@ -2,4 +2,4 @@
 my first repository
 Hello!
 
-I'm a design student struggling to learn some code.
+I'm a design student learning some code.
